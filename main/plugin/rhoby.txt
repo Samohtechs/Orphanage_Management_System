@@ -1,0 +1,5 @@
+NAME        :   EMMACULATE FREDRICK
+GENDER      :   FEMALE
+AGE         :   20
+DOB         :   2000
+SHORT NOTE  :   CHARMING LITTLE GIRL
